@@ -26,3 +26,7 @@ Requires Python 3 and a terminal at least 30×16 characters (macOS/Linux; on Win
 - Bombs explode after 2.5s; blasts stop at pillars (`##`), destroy the first brick they hit, and set off other bombs.
 - Power-ups hide under bricks: `+B` extra bomb, `+F` longer blast, `+S` speed. Flames destroy exposed power-ups.
 - You have 3 lives. Touching an enemy or a flame costs one.
+
+## Contributing
+
+See [ROADMAP.md](ROADMAP.md) for known issues and ideas for what to build next.
